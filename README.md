@@ -71,6 +71,7 @@ Save records to database
 
 📁 Project Structure
 ExamCellCertificateRegister
+ExamCellCertificateRegister
 │
 ├── public
 │   ├── index.php
@@ -253,3 +254,4 @@ Version: 1.0.0
 Last Updated: February 2026
 
 ✅ This version will look clean and structured on GitHub.
+
